@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Game & Mobile Developer
+# 👋 Hi, I'm James Patrick — Game & Mobile Developer
 
 I'm a passionate Game Developer and Mobile App Developer with experience since 2019. I specialize in building 2D and 3D games using Unity and Godot, crafting mobile apps with Flutter and Kotlin, and developing backend systems with Python, PHP, and Laravel.
 I love creating interactive experiences that blend creativity, storytelling, and technology.
