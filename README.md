@@ -42,6 +42,8 @@ I love creating interactive experiences that blend creativity, storytelling, and
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuremmmmz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📈 Goals
 - Build more complex **cross-platform games** combining Godot and Flutter technologies.
 - Explore deeper into **cloud integration** for multiplayer games.
