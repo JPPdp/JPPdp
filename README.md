@@ -15,7 +15,7 @@ I love creating interactive experiences that blend creativity, storytelling, and
 
 ## 🚀 Projects
 <p align="center">
-  <img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/recent_projects.png"/>
+  <img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/RCP.png"/>
 </p>
 ### 🎮 Game Projects
 - **Through Wilderness** — *(Unity, Android, 2D Roguelike)*  
