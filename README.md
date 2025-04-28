@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/RCP.png"/>
+  <img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/SKILLS.png"/>
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/SKILLS.png"/>
+  <img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/RCP.png"/>
 </p>
 ### 🎮 Game Projects
 - **Through Wilderness** — *(Unity, Android, 2D Roguelike)*  
