@@ -11,8 +11,6 @@
 </p>
 
 ---
-
-## 🚀 Projects
 <p align="center">
   <img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/RCP.png"/>
 </p>
