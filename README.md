@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James Patrick Paloyo — Game & Mobile Developer
 
-**Game Developer** and **Mobile App Developer** with experience since **2019**. I specialize in building Android Apps, 2D and 3D games using **Flutter**, **Unity** and **Godot**, crafting mobile apps with **Flutter** and **Kotlin**, and developing backend systems with **Python**, **PHP**, and **Laravel**.  
+**Game Developer** and **Mobile App Developer** with experience since **2019**.
 
 ---
 <p align="center">
