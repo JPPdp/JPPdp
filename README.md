@@ -50,5 +50,8 @@ I love creating interactive experiences that blend creativity, storytelling, and
 ---
 
 ## 🌟 Let's Connect!
-
+- [LinkedIn]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/james-patrick-paloyo-3ab052298))  
+- [Gmail](mailto:payloyo@gmail.com)  
+- [Facebook]([https://www.facebook.com/your-profile-link](https://www.facebook.com/braxye.lala/))  
+- [Portfolio]([https://your-portfolio-link.com](https://jppdp.github.io/KnowMe/main.html))
 Feel free to reach out if you want to collaborate, discuss game ideas, or just talk about tech and game development!
