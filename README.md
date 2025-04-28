@@ -3,7 +3,7 @@
 I'm a passionate Game Developer and Mobile App Developer with experience since 2019. I specialize in building 2D and 3D games using Unity and Godot, crafting mobile apps with Flutter and Kotlin, and developing backend systems with Python, PHP, and Laravel.
 I love creating interactive experiences that blend creativity, storytelling, and technology.
 ## 🛠 Skills
-<h3 align="left"> <img src="https://skillicons.dev/icons?i=unity,unreal,flutter,kotlin,swift,androidstudio,react,nextjs,tailwind,nodejs,express,php,python,mysql,sqlite,cpp,typescript,javascript,postman,fsharp" /> </h3>
+<p align="left"> <img src="https://skillicons.dev/icons?i=unity,unreal,flutter,kotlin,swift,androidstudio,react,nextjs,tailwind,nodejs,express,php,python,mysql,sqlite,cpp,typescript,javascript,postman,fsharp,git,flask,mern,mean,mevn" /> </p>
 
 
 ## 🚀 Projects
