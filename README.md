@@ -14,7 +14,7 @@ I love creating interactive experiences that blend creativity, storytelling, and
 ---
 
 ## 🚀 Projects
-https://github.com/JPPdp/KnowMe/blob/main/rcs/recent_projects.png
+<img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/recent_projects.png"/>
 ### 🎮 Game Projects
 - **Through Wilderness** — *(Unity, Android, 2D Roguelike)*  
   A pixel-art roguelike adventure featuring local, cache, and cloud save systems using MySQL, SQLite, and Unity persistent data.
