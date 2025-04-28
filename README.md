@@ -12,9 +12,8 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/RCP.png"/>
-</p>
+<p align="center"><img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/RCP.png"/></p>
+
 ### 🎮 Game Projects
 - **Through Wilderness** — *(Unity, Android, 2D Roguelike)*  
   A pixel-art roguelike adventure featuring local, cache, and cloud save systems using MySQL, SQLite, and Unity persistent data.
