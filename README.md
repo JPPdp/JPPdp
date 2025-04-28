@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/SKILLS.png" style="width:200px;"/>
+  <img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/SKILLS.png" style="width:170px;"/>
 </p>
 
 <p align="left">
