@@ -29,6 +29,9 @@ I love creating interactive experiences that blend creativity, storytelling, and
 - **Gym Management System** — (*.NET, MySQL, PHP*)
     A management system that handles member registration, payment tracking, and workout schedules.
 
+- **VendiApp** — (Kotlin, PHP, MySQL)
+A mobile application designed to streamline interaction between users and vendors. Users can browse products/services, make bookings, and communicate directly with vendors. The app has real-time chat functionality, booking management, and an admin panel for user/vendor account management.
+
 ## 📈 Goals
 
 - Build more complex cross-platform games combining Godot and Flutter technologies.
