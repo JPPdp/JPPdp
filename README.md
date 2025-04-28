@@ -10,16 +10,16 @@ I love creating interactive experiences that blend creativity, storytelling, and
 ### 🎮 Game Projects
 
 - **Through Wilderness** — (*Unity, Android, 2D Roguelike*)
-    A pixel-art roguelike adventure featuring local, cache, and cloud save systems using MySQL, SQLite, and Unity persistent data.
+A pixel-art roguelike adventure featuring local, cache, and cloud save systems using MySQL, SQLite, and Unity persistent data.
 
 * **Unbound Soul** — (*Unity, Android, 2D Platformer*)
-    A smaller-scale spiritual tribute to Hollow Knight with smooth platforming and exploration mechanics.
+A smaller-scale spiritual tribute to Hollow Knight with smooth platforming and exploration mechanics.
 
 - **Retro GTA** — (*Unity*)
-    A nostalgic mini-open-world game inspired by the original top-down Grand Theft Auto.
+A nostalgic mini-open-world game inspired by the original top-down Grand Theft Auto.
 
 - **Elder Quest** — (*Godot, C#, SQLite, Laravel*)
-    A 2D hack-and-slash platformer featuring a rich pixel-art world and dynamic combat, powered by a custom SQLite-Laravel backend system.
+A 2D hack-and-slash platformer featuring a rich pixel-art world and dynamic combat, powered by a custom SQLite-Laravel backend system.
 
 ## 📱 Mobile & Web Projects
 
