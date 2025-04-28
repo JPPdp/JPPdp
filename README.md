@@ -3,8 +3,9 @@
 **Game Developer** and **Mobile App Developer** with experience since **2019**. I specialize in building Android Apps, 2D and 3D games using **Flutter**, **Unity** and **Godot**, crafting mobile apps with **Flutter** and **Kotlin**, and developing backend systems with **Python**, **PHP**, and **Laravel**.  
 
 ---
-
-## 🛠 Skills
+<p align="center">
+  <img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/RCP.png"/>
+</p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=unity,unreal,flutter,kotlin,swift,androidstudio,react,nextjs,tailwind,nodejs,express,php,python,mysql,sqlite,cpp,typescript,javascript,postman,fsharp,git,flask,mern,mean,mevn" />
