@@ -13,7 +13,33 @@
 
 ---
 <p align="center"><img src="https://github.com/JPPdp/KnowMe/blob/main/rcs/RCP.png" style="width:400px;"/></p>
+## 🧠 AI-Powered Projects
 
+### 🔹 Realistic AI NPCs in Unity  
+**Role**: AI Integrator at REEV Tech Inc. (Japan)  
+**Tech Stack**: Unity, C#, Large Language Models (LLMs), Prompt Engineering, Behavior Trees  
+- Integrated GPT-based LLMs into Unity to enable immersive, reactive NPC dialogue.  
+- Designed emotion-aware behavior trees and decision systems.  
+- Focused on player-driven storytelling and context-aware AI responses.  
+
+---
+
+### 🔹 PDF-to-DOCX OCR Tool with AI  
+**Status**: In Development  
+**Tech Stack**: Python, Tesseract OCR, PyTorch (for AI formatting detection), OpenCV  
+- Dual-threaded OCR for cross-validation and increased accuracy.  
+- GPU-accelerated image processing pipeline.  
+- AI preserves original formatting (bold, italic, strikethrough, etc.).  
+- Built with a responsive UI and live content preview.  
+
+---
+
+### 🔹 AI Resume Enhancer (Concept)  
+**Status**: Prototype  
+**Tech Stack**: OpenAI (LLMs), Resume Parser, Keyword Engine  
+- Rewrites resumes using AI based on job descriptions.  
+- Automatically injects key skills and optimizes formatting.  
+- Tone-matching and role-specific refinement using prompt engineering.  
 ### 🎮 Game Projects
 - **Through Wilderness** — *(Unity, Android, 2D Roguelike)*  
   A pixel-art roguelike adventure featuring local, cache, and cloud save systems using MySQL, SQLite, and Unity persistent data.
