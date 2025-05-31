@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James Patrick Paloyo — Game & Mobile Developer
 
-**Game Developer** and **Mobile App Developer** with experience since **2019**.
+**Game Developer** and **Mobile App Developer** with experience since **2016**.
 
 ---
 <p align="center">
